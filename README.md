@@ -1,5 +1,5 @@
 # resource-library
-**resource-library**用于存放一些整理的电子书具体包含
+**resource-library**用于存放一些整理的电子书，会不定期更新，目录如下：
 ## iOS
 - Objective-C
   - iOS并发编程指南
@@ -12,12 +12,14 @@
   - iOS应用逆向：分析与实战
   - iOS开发进阶
   - Objective—C编程之道：iOS设计模式解析
- - Swift
+- Swift
   - Swift-UI（onevcat王巍）
   - 函数式Swift
   - Swifter(100个Swift必备Tips)
- ## 设计模式
+## 设计模式
   - 大话设计模式
- ## 计算机
+## 计算机
   - 图解HTTP
 
+**关注公众号，扫码获取**
+![](./images/qrcode.jpg)
